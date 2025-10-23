@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Hello minasan\n";
+    std::cout << "Hello from Bunsak\n";
 }
